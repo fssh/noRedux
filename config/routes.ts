@@ -20,9 +20,14 @@
   },
   {
     path: '/welcome',
-    name: 'welcome',
+    name: 'Welcome',
     icon: 'smile',
     component: './Welcome',
+  },{
+    path: '/astar',
+    name: 'Astar',
+    icon: 'star',
+    component: './astar',
   },
   // {
   //   path: '/admin',

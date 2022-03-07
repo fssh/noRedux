@@ -31,7 +31,15 @@ const Welcome: React.FC = () => {
             marginBottom: 24,
           }}
         />
-        本项目仅供公司内部同学调试使用！
+        <pre>
+        {`
+        算法分享，欢迎试用！
+        如您有宝贵意见，请联系：
+        wx：fish-fsh
+        qq：741691336
+        email:fish.fsh@qq.com'
+        `}
+        </pre>
       </Card>
     </PageContainer>
   );

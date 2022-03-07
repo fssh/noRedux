@@ -25,7 +25,7 @@ export default {
   'pages.welcome.advancedComponent': '高级表格',
   'pages.welcome.link': '欢迎使用',
   'pages.welcome.advancedLayout': '高级布局',
-  'pages.welcome.alertMessage': '欢迎来到魔法孵化实验室 ; )',
+  'pages.welcome.alertMessage': '欢迎来到算法孵化实验室 ; )',
   'pages.admin.subPage.title': ' 这个页面只有 admin 权限才能查看',
   'pages.admin.subPage.alertMessage': 'umi ui 现已发布，欢迎使用 npm run ui 启动体验。',
   'pages.searchTable.createForm.newRule': '新建规则',
