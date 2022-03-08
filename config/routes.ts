@@ -24,10 +24,10 @@
     icon: 'smile',
     component: './Welcome',
   },{
-    path: '/astar',
-    name: 'Astar',
+    path: '/noRedux',
+    name: 'NoRedux',
     icon: 'star',
-    component: './astar',
+    component: './noRedux',
   },
   // {
   //   path: '/admin',
